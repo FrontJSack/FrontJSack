@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/aEPLj7wAxvfOXycDvB/giphy.gif" width="30%" /></p>
+<p align="center"><img src="https://media.giphy.com/media/aEPLj7wAxvfOXycDvB/giphy.gif" width="15%" /></p>
 
 
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -46,4 +46,6 @@ I am a Front-End Developer from Poland.
 
 ---
 
-<h1 align="center">Learn Everyday! <img src="https://media.giphy.com/media/aEPLj7wAxvfOXycDvB/giphy.gif" width="40"></h1>
+<p align="center"><img src="https://media.giphy.com/media/Q9XcRFCqFXkjXhpcc9/giphy.gif" width="30%" /></p>
+
+<h1 align="center">Learn Everyday! <img src="https://media.giphy.com/media/IURYMmloHWzmKihgQ2/giphy.gif" width="60"></h1>
