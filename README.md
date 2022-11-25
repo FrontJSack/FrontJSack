@@ -4,9 +4,16 @@
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jacek-leszczynski9"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://linkedin.com/in/jacek-leszczynski9" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” />
+  </a>
+  <a href="mailto:jacekleszczynski9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” />
+  </a>
+  <a href="https://jacekleszczynski.pl/" target="_blank">
+		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
+	</a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=FrontJSack&style=flat-square&color=blue" alt=""></p>
 
 ### :woman_technologist: &nbsp;About Me :
 
