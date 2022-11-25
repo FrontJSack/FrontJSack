@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/26xBsNWCOVr2UuocE/giphy.gif" width="50%" /></p>
+<p align="center"><img src="https://media.giphy.com/media/aEPLj7wAxvfOXycDvB/giphy.gif" width="30%" /></p>
 
 
 <h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
@@ -43,4 +43,7 @@ I am a Front-End Developer from Poland.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrontJSack&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ---
+
+<h1 align="center">Learn Everyday! <img src="https://media.giphy.com/media/aEPLj7wAxvfOXycDvB/giphy.gif" width="40"></h1>
