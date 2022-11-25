@@ -53,6 +53,5 @@ I am a Front-End Developer from Poland.
 
 ---
 
-<p align="center"><img src="https://media.giphy.com/media/Q9XcRFCqFXkjXhpcc9/giphy.gif" width="30%" /></p>
-
-<h1 align="center">Learn Everyday! <img src="https://media.giphy.com/media/IURYMmloHWzmKihgQ2/giphy.gif" width="60"></h1>
+<p align="center"><img align="center" src="https://media.giphy.com/media/IURYMmloHWzmKihgQ2/giphy.gif" width="200"></p>
+<h1 align="center">Learn Everyday! </h1>
