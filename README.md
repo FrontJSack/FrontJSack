@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/jacek-leszczynski9" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” />
   </a>
-  <a href="mailto:jacekleszczynski9@gmail.com" target="_blank">
+  <a href="mailto:jacek@dgspectrum.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” />
   </a>
   <a href="https://jacekleszczynski.pl/" target="_blank">
