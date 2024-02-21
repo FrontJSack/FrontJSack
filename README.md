@@ -22,7 +22,7 @@ I am a Fullstack Developer from Poland.
 - 🔭 Currently working with team on software house - DG Spectrum 
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve complex buiness problems and read tech articles.
-- 📫 How to reach me comercially: &nbsp; <a href="mailto:jacek@dgspectrum.com">jacek@dgspectrum.com</a>
+- 📫 How to get in touch with me for business: &nbsp; <a href="mailto:jacek@dgspectrum.com">jacek@dgspectrum.com</a>
 
 ---
 
