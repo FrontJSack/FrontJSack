@@ -10,7 +10,7 @@
   <a href="mailto:jacek@dgspectrum.com" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14636?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” />
   </a>
-  <a href="https://jacekleszczynski.pl/" target="_blank">
+  <a href="https://dgspectrum.it/" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-1AA246?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 </p>
@@ -19,7 +19,7 @@
 
 I am a Fullstack Developer from Poland.
 
-- 🔭 Currently working with team on software house - DG Spectrum 
+- 🔭 Currently working with team on software house - <a href="https://dgspectrum.it/" target="_blank">DG Spectrum</a> 
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve complex buiness problems and read tech articles.
 - 📫 How to get in touch with me for business: &nbsp; <a href="mailto:jacek@dgspectrum.com">jacek@dgspectrum.com</a>
