@@ -7,41 +7,46 @@
   <a href="https://linkedin.com/in/jacek-leszczynski9" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link to LinkedIn profile page" rel=”noreferrer” />
   </a>
-  <a href="mailto:jacek@dgspectrum.com" target="_blank">
+  <a href="mailto:hello@jackyles.pl" target="_blank">
     <img src="https://img.shields.io/badge/Mail-D14636?style=for-the-badge&logo=gmail&logoColor=white" alt="Send a mail message" rel=”noreferrer” />
   </a>
-  <a href="https://dgspectrum.it/" target="_blank">
+  <a href="https://jackyles.pl/" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-1AA246?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
 </p>
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Fullstack Developer from Poland.
+"Empathetically opinionated, expertly executed software"
+
+Hello! I am Founder and CTO at DG Spectrum, where we build web applications, and come with rescue to development teams! I love programing and helping our clients solve technical challenges with empathy and skill everyday. Also i love helping our team in improving their technical skills and soft competences.
+
+In my free time i am a musician and a family guy, who tends to help and contribute to music and event industries (mostly small non-profit companies). Love to network and rate your stunning missions ❣️
 
 - 🔭 Currently working with team on software house - <a href="https://dgspectrum.it/" target="_blank">DG Spectrum</a> 
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve complex buiness problems and read tech articles.
-- 📫 How to get in touch with me for business: &nbsp; <a href="mailto:jacek@dgspectrum.com">jacek@dgspectrum.com</a>
+- 📫 How to get in touch with me for business: &nbsp; <a href="mailto:hello@jackyles.pl">hello@jackyles.pl</a>
 
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
-	
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="46" height="46"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript" width="46" height="46"/>&nbsp;	
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt.js" alt="Nuxt.js" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="46" height="46"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="46" height="46"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Next.js" alt="Next.js" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest.js" alt="Nest.js" width="46" height="46"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/quasar/quasar-plain-wordmark.svg" title="Quasar" alt="Quasar" width="46" height="46"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postgresql" width="46" height="46"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="Tailwindcss" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/portainer/portainer-original.svg" title="Portainer"  alt="Portainer" width="46" height="46"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="46" height="46"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="Typescript" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="46" height="46"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Postgresql" width="46" height="46"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="Tailwindcss" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="46" height="46"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Scss" alt="Scss" width="46" height="46"/>&nbsp;
