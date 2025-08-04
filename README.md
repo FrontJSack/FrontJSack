@@ -66,8 +66,8 @@ In my free time i am a musician and a family guy, who tends to help and contribu
 </p>
 
 ---
-
-![FrontJSack's GitHub stats](https://github-readme-stats.vercel.app/api?username=frontjsack&theme=ambient_gradient&show_icons=true)
+<img height=200 align="center" src="https://github.com/FrontJSack/github-readme-stats/api?username=frontjsack&layout=donut&theme=midnight-purple" />
+<img height=200 align="center" src="https://github.com/FrontJSack/github-readme-stats/api?username=frontjsack&theme=midnight-purple&show_icons=true" />
 
 <p align="center"><img align="center" src="https://media.giphy.com/media/IURYMmloHWzmKihgQ2/giphy.gif" width="200"></p>
 <h1 align="center">Learn Everyday! </h1>
